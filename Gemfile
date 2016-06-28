@@ -46,3 +46,8 @@ end
 
 #Adding the rails 12factor gem
 gem 'rails_12factor', group: :production
+
+#Adding rspec-rails gem
+group :development, :test do
+  gem 'rspec-rails', '~> 3.0'
+end
