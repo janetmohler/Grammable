@@ -60,3 +60,5 @@ gem 'sass-rails'
 #Adding SimpleForm
 gem 'simple_form'
 
+#Adding Devise
+gem 'devise', '>= 3.2.4'
