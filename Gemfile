@@ -66,3 +66,9 @@ gem 'devise', '>= 3.2.4'
 
 #Adding CarrierWave
 gem 'carrierwave', '>= 1.0.0.beta', '< 2.0'
+
+#Adding Figaro
+gem 'figaro'
+
+#Adding Fog
+gem 'fog'
